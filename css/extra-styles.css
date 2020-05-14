@@ -1,0 +1,69 @@
+@media all and (min-width: 1200px) {
+  .angel-text, .eternal-text {
+    font-size: 0.885em;
+  }
+  .box-text {
+    font-size: 0.7916rem;
+  }
+  .for-text, .go-to-text {
+    font-size: 0.85181rem;
+  }
+  .pop-text {
+    font-size: 0.996rem;
+  }
+  .s-bold-text, .sweet-bunch-text {
+    font-size: 0.7912398rem;
+  }
+  .wild-text {
+    font-size: 0.9rem;
+  }
+  .wire-text {
+    font-size: 0.85rem;
+  }
+  .wood-text {
+    font-size: 0.89rem;
+  }
+  #sweet-bunch-head h3 {
+    font-size: 1.95rem;
+  }
+  #wood-head h3 {
+    font-size: 1.87rem;
+  }
+  .img {
+    margin: 0;
+  }
+}
+
+@media all and (min-width: 1366px) {
+  .angel-text, .eternal-text {
+    font-size: 1em;
+  }
+  .box-text {
+    font-size: 0.98rem;
+  }
+  .eternal-text {
+    font-size: 1.092em;
+  }
+  .for-text, .go-to-text {
+    font-size: 1rem;
+  }
+  .pop-text {
+    font-size: 1rem;
+  }
+  .s-bold-text, .sweet-bunch-text {
+    font-size: 1rem;
+  }
+  .wild-text {
+    font-size: 1rem;
+  }
+  .wire-text {
+    font-size: 1rem;
+  }
+  .wood-text {
+    font-size: 1rem;
+  }
+  #sweet-bunch-head h3 {
+    font-size: 1.95rem;
+  }
+}
+/*# sourceMappingURL=extra-styles.css.map */
